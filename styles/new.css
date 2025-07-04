@@ -1,3 +1,6 @@
+*{
+    margin: 0;
+}
 div{
     background: red;
     background-color: antiquewhite;
@@ -6,6 +9,8 @@ div{
     border: 10px solid navy;
     border-radius: 20px;
     box-shadow: 10px 10px 10px;
+    margin: 125
+    ;
 }
 .head{
     text-align: center;
